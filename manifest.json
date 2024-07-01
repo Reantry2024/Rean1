@@ -23,7 +23,7 @@
   ],
   "icons": {
     "16": "FB/icon16.png",
-    "48": "icon48.png",
+    "48": "FB/icon48.png",
     "128": "FB/icon128.png"
   },
   "content_security_policy": "script-src 'self'  'unsafe-eval' object-src 'self'  https://cdnjs.cloudflare.com; "
