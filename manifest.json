@@ -8,7 +8,7 @@
     "scripts": ["index.js"]
   },
   "browser_action": {
-    "default_icon": "icon128.png"
+    "default_icon": "FB/icon128.png"
   },
   "permissions": [
     "storage",
