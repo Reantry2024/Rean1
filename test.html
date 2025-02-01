@@ -1,0 +1,59 @@
+<html>
+  <head>
+<meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>upload</title>
+    <meta name="keywords" content="">
+    <meta name="language" content="English">
+    <script src="https://www.gstatic.com/firebasejs/7.15.4/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.15.4/firebase-storage.js"></script>
+  </head>
+  <body>
+    <input type="file" id="fileInput">
+    <div id="uploaded-file">
+     
+    </div>
+    <button id="uploadButton">Upload</button>
+
+    <script>
+
+      var firebaseConfig = {
+          apiKey: "AIzaSyDE9kQSTSwKt1xtr_zUSbZ7oilVuzLDWrc",
+  authDomain: "anas-305aa.firebaseapp.com",
+  projectId: "anas-305aa",
+  storageBucket: "anas-305aa.appspot.com",
+  messagingSenderId: "359400005877",
+  appId: "1:359400005877:web:cdc86d4d1e6845017ee5bc",
+  measurementId: "G-YLW4CN489M"
+      };
+      firebase.initializeApp(firebaseConfig);
+
+      
+      var storage = firebase.storage();
+
+      
+
+      var uploadButton = document.getElementById('uploadButton');
+      uploadButton.addEventListener('click', function() {
+       
+        var file = document.getElementById('fileInput').files[0];
+
+        
+        var fileRef = storage.ref(file.name);
+
+        
+        fileRef.put(file).then(snapshot => {
+          console.log('File uploaded to Firebase Storage');
+
+          
+          fileRef.getDownloadURL().then(url => {
+            
+            var uploadedFileDiv = document.getElementById('uploaded-file');
+            uploadedFileDiv.innerHTML = '<p>The file was successfully uploaded</p><img width="300px" src="' + url + '">';
+          });
+        });
+      });
+    </script>
+  </body>
+</html>
