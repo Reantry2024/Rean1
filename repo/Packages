@@ -1,0 +1,435 @@
+Package: com.roothide.manager
+Version: 0.7
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 148
+Depends: firmware (>= 15.0), gsc.camera-flash
+Filename: /debs/RootHide_Manager_arm64.deb
+Size: 44652
+MD5sum: 834ea449016f0b05b5e979dfebbfc386
+SHA1: 53115f606aa70c541a2e5d115e5295b752dda610
+SHA256: 7decadcc641a9eed9f8890691f95e09c2ba446e77be50832ff4a4bb68a6c1129
+Section: Utilities
+Description: RootHide Manager
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Name: RootHide
+Sileodepiction: https://kkkkg.github.io/repo/
+
+Package: com.roothide.manager
+Version: 0.7
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 33618
+Depends: mobilesubstrate, firmware (>= 12.2), preferenceloader, com.opa334.altlist
+Filename: debs/RootHide_Manager_arm64.deb
+Size: 733168
+MD5sum: 834ea449016f0b05b5e979dfebbfc386
+SHA1: 210e8c74da24c8e3341fe4a7760562a0ad39d7d7
+SHA256: faba1c13e065f8e3810eed815feff027738d1073250bf6ba56e0ec695c63a11a
+Section: Tweaks
+Description: RootHide Manager
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: https://onejailbreak.com/site/assets/files/1732/roothide-logo.350x0-is.jpg
+Name: RootHide
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.windscrpro
+Version: 3.7.9
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 33618
+Depends: mobilesubstrate, firmware (>= 12.2), preferenceloader, com.opa334.altlist
+Filename: debs/com.windscrpro_2506_iphoneos-arm64.deb
+Size: 66976
+MD5sum: 3c62b856854566c52fbed60ee25ba1ad
+SHA1: 83c0d5093bbe22df6f44473ae053d296f7c1c29d
+SHA256: 3600fad6b8eee0824f487e740a6a0cc52a19570fe1104785c96349b5d6ba5902
+Section: Tweaks
+Description: VPN Pro
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwksZd8AcJdl9M_oJ6q3Ae4kOJ-iaBsPRLCVnf_CcKfg&s
+Name: Windscribe Pro
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.picsart.studio
+Version: 24.8.2
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 33618
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: debs/com.picsart.kasar_iphoneos-arm64.deb
+Size: 8944
+MD5sum: c93f2497dc830d81b311a8a3909d7960
+SHA1: 7d8313af5fdf9bf3d875c0a76e80848a98d28961
+SHA256: bebb1a0f5cc801a26f1301f65637e8ae012cbcd16d849cfb39f3ca91366f4ffd
+Section: Tweaks
+Description: Picsart Gold 
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: https://play-lh.googleusercontent.com/1JMJ518jogwPeaD0pYn2mBu1cRLD0xRi45wNbtTIRvam1_xx-y3KJOjRAx-W9P4Lf0U
+Name: Picsart Gold
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.snapper3
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 33618
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/com.kasar.snapper3_1.0.2_iphoneos-arm64.deb
+Size: 911348
+MD5sum: b9634189381e073bb7a7a1d65570d24c
+SHA1: 72204a94e493fcf670c5c767337ded5d0474b142
+SHA256: 8c12f600bf1f741ab1e93222f03fd7afb4ba4c77b78d68b5549fb3154dcab8b2
+Section: Tweaks
+Description: Snapper Cracked 
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: https://media.havoc.app/6485a9c9e04866abb700c856?w=1080&q=75
+Name: Snapper3
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.bhtiktok
+Version: 2.3
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 33618
+Depends: mobilesubstrate
+Filename: debs/BHTikTokPlus.deb
+Size: 482880
+MD5sum: 3dc3fb13d78d06e35b22ea12eaee3464
+SHA1: 8ed4d68e954c2e1295b6e1834f1c7741ded453c8
+SHA256: 01639513b0f2d6c09407659867519699caa741f80f10354933fc93d562d05856
+Section: Tweaks
+Description: BHTikTok Plus 
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: https://p16-va-tiktok.ibyteimg.com/obj/musically-maliva-obj/4a2a1776a08f761c6464f596c0c5e8e6.png
+Name: BHTikTok Plus 
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.jade
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 33618
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
+Filename: debs/com.kasar.jade_iphoneos-arm64.deb
+Size: 316900
+MD5sum: 9d04a257fdbf8fc0de139510cb44fde8
+SHA1: 0f3c93bee962d0e35d1322cb4e5de76a354532b5
+SHA256: e1cc886114bd8af1f7a67eb11203219915e3da7e4095730e02e03b584ada39c1
+Section: Tweaks
+Description: Jade Crack 
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: https://img.chariz.cloud/icon/jade/icon@3x.png
+Name: Jade 
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.spotify
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 33618
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
+Filename: debs/com.kasar.spotify_iphoneos-arm64.deb
+Size: 31104
+MD5sum: b5819a475950f2fd81cd26df0e493bb9
+SHA1: f1077e697e41179771a9dcd834e533761118c8e0
+SHA256: 89b63c0a923931e787b7bc1bff50c7de01b664fbc6b62261087622fd2e504ea5
+Section: Tweaks
+Description: Spotify Premium++ 
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: https://developer.spotify.com/images/guidelines/design/icon3@2x.png
+Name: Spotify++ 
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.filza
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 33618
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: debs/com.kasar.filza_iphoneos-arm64.deb
+Size: 21304
+MD5sum: acb3e9c10f06910d0d6db2274b7aab28
+SHA1: 555aa55fcaa637048ae727c1d4604bd6dea9a56d
+SHA256: 262f5e6c69eb7a1c5a0ca4eee3cc78dd3573a378b620e11ef4bde3a6ca5a9b1e
+Section: Tweaks
+Description: Filza & Apps Manager 
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: https://tweak-box.com/wp-content/uploads/2019/04/filza-1.png
+Name: Filza Crack 
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.ytadsdisablebg
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 33618
+Depends: mobilesubstrate
+Filename: debs/com.kasar.ytadsdisablebg_iphoneos-arm64.deb
+Size: 4264
+MD5sum: 2d9b64639aed69d114c63fc65fca9ef2
+SHA1: 068a9ee4fe82eadb060d53bf0f9f3ec945605a95
+SHA256: 7812820684824b42a8fe85d298941cd3874bdb820768b67b06c7480d6c76956d
+Section: Tweaks
+Description: A simple tweak to disable youtube ads enable background playback and bring back the old quality selector
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: https://static.vecteezy.com/system/resources/previews/018/930/572/non_2x/youtube-logo-youtube-icon-transparent-free-png.png
+Name: YTAdsDisablebg 
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.voicechanger
+Version: 2.4-3
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 33618
+Depends: mobilesubstrate
+Filename: debs/com.kasar.voicechanger_iphoneos-arm64.deb
+Size: 233612
+MD5sum: eb5a87d644b0d8b73b09e42d7732721c
+SHA1: 3c2fcc1e6c229ac08d9be16188966feecf559aa2
+SHA256: c4f778fc3e1e42c68cc8c1a05301b29bf3eed90c47c71be48506c7b86b1b1013
+Section: Tweaks
+Description: VoiceChanger XS Crack
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: no icon
+Name: VoiceChanger XS 
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.dockX
+Version: 2.6.0
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 33618
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Filename: debs/com.kasar.dockX_iphoneos-arm64.deb
+Size: 305952
+MD5sum: ecb3144f2bc4c1fb7dfa6650f53739b5
+SHA1: ebd1227a1664ce985378a07315c71a5cf7122254
+SHA256: b0254a14bf16f1a42e932ee7667a50fe2b819825101b72751fe1a1340377b697
+Section: Tweaks
+Description: DockX Keyboard 
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Name: DockX 
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.alpine
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 33618
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: debs/com.kasar.alpine_iphoneos-arm64.deb
+Size: 601452
+MD5sum: bcffd2d30154193009aaca1d0d2337f3
+SHA1: a594bbb63e4e350f5ca3cd50a183ca284de7c99b
+SHA256: aecd4ad860f33324d6e46e2c7eeda5641ac02fed49c99777f6d740c6d2ef1fb5
+Section: Tweaks
+Description: tvOS alerts for iOS 
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: https://media.havoc.app/64ae21880d54f9113bc13a59
+Name: Alpine 
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.iCleanerPro
+Version: 7.10
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 33618
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: debs/com.kasar. iCleanerPro_iphoneos-arm64.deb
+Size: 4836
+MD5sum: d98a46174dc4844bf16e56e72a5b4521
+SHA1: 82d1afb221ff5f1bfeef4152a24e7c26f5571c56
+SHA256: 55fe86d5b9c5a8161e16bfb5fc4638a0b26fb9bea099d2eb4895344fd7fca749
+Section: Tweaks
+Description: iCleaner Pro Cracked All Version 
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: https://ib-soft.net/style/icons/iCleanerIcon.png
+Name: iCleanerPro Crack 
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.disablepastealert16
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 33618
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: debs/com.kasar.disablepastealert_iphoneos-arm64.deb
+Size: 3996
+MD5sum: 2e17f97dc76f4de2dc6997a89962c082
+SHA1: a8a32ee4feaaac684977601a239840421cde78a7
+SHA256: 92788a7c58f1cc7b95cc7e629487f8120e45cb45909e0d98454a7bb439c80d44
+Section: Tweaks
+Description: DisablePastealert 
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: 404
+Name: Disable Pastealert 
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.storeswitchaccounts
+Version: 1.1.5
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 33618
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/com.kasar.storeswitchaccounts_iphoneos-arm64.deb
+Size: 102188
+MD5sum: 7c94eb19be9952448157b84bfc3a1d16
+SHA1: d0211b0faa19b71869ef0a2158fccaef8c0e1ff2
+SHA256: 86bae52a885a1d386fb0c9c782c05e67135149921e9c10ae7fc2b335eefed2db
+Section: Tweaks
+Description: Conveniently switch between logged-in accounts long press the desktop AppStore icon to switch 
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: 404
+Name: AppStoreSwitchAccounts 
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.showtouch
+Version: 1.0.4-3
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 33618
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/com.showtouch_1.0.4-3_iphoneos-arm64.deb
+Size: 376020
+MD5sum: 6c9b1deabfd5aaae90ffe32a39c276f8
+SHA1: 3d54e0eb54790df2caa8590268b1ca3156c46768
+SHA256: 4bbbc28d233064b843f4278271949d1672f7cca8ec2e5323b993b81a4a03d2d2
+Section: Tweaks
+Description: Shows where you touch the screen 
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: 404
+Name: ShowTouch 
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.contactsextended
+Version: 1.9.7
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 33618
+Depends: firmware (>= 14)
+Filename: debs/com.kasar.contactsextended_iphoneos-arm64.deb
+Size: 86412
+MD5sum: 0ca70162205620c92a54b95319c62dc7
+SHA1: 37c8db70950c9074d5e740cd5009f37d404ef3aa
+SHA256: eb61b5fc8696b5e2900002806d76d918cbda7374d452a872a9aee1e77f972995
+Section: Tweaks
+Description: Your contacts - with more options! 
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: https://cdn-static.yourepo.com/images/debs/com.yourepo.0xkuj.contactsextended.png
+Name: Contacts Extended 
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.barmoji
+Version: 3.3
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 33618
+Depends: mobilesubstrate
+Filename: debs/com.kasar.barmoji_3.3_iphoneos-arm64.deb
+Size: 48356
+MD5sum: 79f53e2bc54b6f9ba184631911778718
+SHA1: 7463132fd294edf7dd1592f40db9be1a7a34e6b0
+SHA256: 54ca4e2d176a577da3eebd3a7ac766b3e965a0a8d7e9c5e30b5e875bc42e53b9
+Section: Tweaks
+Description: Keyboard Barmoji 
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: https://repo.packix.com/media/com.cpdigitaldarkroom.barmoji/icon.png
+Name: Barmoji 
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.xinam1ne
+Version: 2.6-3
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 33618
+Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, libclang-cpp14, llvm-14, llvm-14-runtime, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: debs/com.kasar.xinam1ne_iphoneos-arm64.deb
+Size: 77440
+MD5sum: 343ceec11758654e38e83290227dbeb6
+SHA1: ef7fefe5789db79c884485a92a2e0d87c4e3bf8a
+SHA256: dfe0220bf335f745eabc817a9ef2eba4f635ba78de36a35e1f2428a47247a5d9
+Section: Tweaks
+Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza. 
+Author: Paisseon, Sudo, NoW4U2Kid
+Depiction: https://kkkkg.github.io/repo/
+Icon: https://camo.githubusercontent.com/167147e24c4241cb98a56fd622f4df04231d98153dae55233cbdff0a06c2a423/68747470733a2f2f7265706f2e6b65796361702e6f6e652f69636f6e732f58696e616d316e652e706e67
+Name: Xinam1ne AIO 
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.designer
+Version: 1.4.9
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 33618
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.kasar.designer_1.4.9_iphoneos-arm64.deb
+Size: 11747612
+MD5sum: b3e971579a04d9cb28a668c5f659fa9f
+SHA1: a1d62b55aaa4709eba224b95a998a0d6b1ed9a35
+SHA256: 7fb472dc46ca5bd1889df4ff33c0ee3e01e18ffb49064768fd1b283b5e471998
+Section: Tweaks
+Description: Design layouts for lockscreen and homescreen
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: https://kkkkg.github.io/repo/assets/images/designer.png
+Name: Designer 
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.safarix
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 287
+Depends: mobilesubstrate
+Filename: debs/com.kasar.safarix_iphoneos-arm64.deb
+Size: 271820
+MD5sum: 6654309c7207ea45195b847d6096371e
+SHA1: b82a6ec3226fe19bdfe4df12c1ad03e5f8500478
+SHA256: e3f02381db9f64791aff4ddce415b3b76d7d15a01c93c770047baeb71f91ba12
+Section: Tweaks
+Description: SafariX Cracked
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: https://kkkkg.github.io/repo/assets/images/com.kasar.safarix.png
+Name: SafariX
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.appdata
+Version: 1.4.2
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 359
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/com.kasar.appdata_1.4.2_iphoneos-arm64.deb
+Size: 823496
+MD5sum: 64b619e31d54cf9f9548c6ea12d0740f
+SHA1: 0dc1ca1416160285927ff786d1b40de38c16028c
+SHA256: 709e83511187d9ec053d2272532bf495dc3cc1079e76cba44d74aff892be3182
+Section: Tweaks
+Description: View & Manage Applications Data from your Home Screen
+Author: Fouad Raheb
+Depiction: https://kkkkg.github.io/repo/
+Icon: https://kkkkg.github.io/repo/assets/images/AppData.png
+Name: AppData
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
